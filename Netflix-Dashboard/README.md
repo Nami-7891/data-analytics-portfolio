@@ -41,9 +41,11 @@ This project analyzes a comprehensive Netflix dataset to uncover content distrib
 
 📁 Files Included
 
-    Power BI Dashboard Screenshots: High-resolution captures of the interactive UI.
+    Power BI Dashboard Screenshots: High-resolution captures of the interactive UI. (images/Netflix_Dashboard.jpeg)
 
     Technical Documentation (DOCX): Comprehensive breakdown of data sources, DAX formulas, and methodology.
+    
+    Power BI Dashboard File (.pbix): (files/Netflix.pbix)
 
 ## 📌 Dashboard Preview
 ![Netflix-Dashboard](images/Netflix_Dashboard.jpeg)
