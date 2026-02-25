@@ -90,6 +90,9 @@ A stacked bar analysis highlights:
 
 ## 📄 Project Files
 
+- 📊 Power BI Dashboard File (.pbix):  
+  [Download PowerBI Report](files/Smoking_Health_Risk.pbix)
+
 - 📑 Full Dashboard Report (PDF):  
   [Download Report](reports/Smoking_Health_Risk.pdf)
 
