@@ -84,7 +84,7 @@ A stacked bar analysis highlights:
 
 ## 📊 Dashboard Preview
 
-![Smoking Risk Dashboard](images/smoking-dashboard-overview.png)
+![Smoking Risk Dashboard](image/smoking-dashboard-overview.png)
 
 ---
 
