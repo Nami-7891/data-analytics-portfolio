@@ -41,11 +41,11 @@ This project analyzes a comprehensive Netflix dataset to uncover content distrib
 
 📁 Files Included
 
-    Power BI Dashboard Screenshots: High-resolution captures of the interactive UI. ![Netflix-Dashboard](images/Netflix_Dashboard.jpeg)
+    Power BI Dashboard Screenshots: High-resolution captures of the interactive UI. [Download Netflix-Dashboard](images/Netflix_Dashboard.jpeg)
 
-    Technical Documentation (DOCX): Comprehensive breakdown of data sources, DAX formulas, and methodology. ![Netflix-Documentation](documentation/Netflix_PowerBI_Dashboard.docx)
+    Technical Documentation (DOCX): Comprehensive breakdown of data sources, DAX formulas, and methodology. [Download Netflix-Documentation](documentation/Netflix_PowerBI_Dashboard.docx)
     
-    Power BI Dashboard File (.pbix): ![Netflix-Dashboard- powerBi](files/Netflix.pbix)
+    Power BI Dashboard File (.pbix): [Download Netflix-Dashboard- powerBi](files/Netflix.pbix)
 
 ## 📌 Dashboard Preview
 ![Netflix-Dashboard](images/Netflix_Dashboard.jpeg)
