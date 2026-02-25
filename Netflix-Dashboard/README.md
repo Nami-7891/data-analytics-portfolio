@@ -29,4 +29,4 @@ This project analyzes Netflix Movies and TV Shows to uncover content distributio
 - Documentation File (DOCX)
 
 ## 📌 Dashboard Preview
-(Insert dashboard image below)
+![Netflix-Dashboard](images/Netflix_dashboard.jpeg)
