@@ -113,6 +113,9 @@ Evening commute drives the majority of bookings.
 
 ## 📄 Project Files
 
+- 📊 Power BI Dashboard File (.pbix):  
+  [Download PowerBI Report](files/Uber.pbix)
+  
 - 📑 Full Dashboard Report (PDF):  
   [Download Report](reports/Uber.pdf)
 
